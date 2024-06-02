@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,600&family=Poppins:wght@200;400;600&family=Roboto+Condensed:ital,wght@0,600;1,600&display=swap");
+
+.key5AnText {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  font-size: 7vh;
+}
+
+.service2 {
+  display: flex;
+  justify-content: center;
+}
+
+.margnT10 {
+  margin-top: 10px;
+}
+
+.imgCentral {
+  margin-left: 10vh;
+  margin-top: 3vh;
+}
+
+.tittleCentral {
+  font-size: 10vh;
+  margin-top: 30vh;
+  margin-left: 13vh;
+}
+
+.centralPage {
+  display: flex;
+  margin: 15vh;
+  margin-top: -7vh;
+}
+
+.navBarPadd {
+  padding-left: 7vh;
+}
+
+.bg {
+  background-color: #e5e5e5;
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
+  padding-bottom: 20px;
+  margin-left: -3.5vh;
+}
+
+a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.roboto-logo {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppin", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-semibold {
+  font-family: "PoppinsB", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  font-family: Roboto Condensed;
+  display: flex;
+  border-width: 1px;
+  border-style: soli;
+  border-color: /;
+  margin-left: 30vh;
+  margin-top: 5vh;
+  font-size: 3vh;
+}
+.navBar {
+  display: flex;
+  border-width: 1px;
+  border-style: ;
+  border-color: ;
+  padding: 1vh;
+  padding-left: 2vh;
+  margin-right: 10vh;
+  margin-top: 5vh;
+  font-size: 2vh;
+}
+.dNav {
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.container2 {
+  border-width: 1px;
+  border-style: ;
+  border-color: ;
+  width: 20vh;
+  padding: 0.5vh;
+  border-radius: 1vh;
+}
+.dashboard {
+  border-width: 1px;
+  border-style: soli;
+  border-color: rey/;
+  transform: translate(61vh, -32vh);
+  width: 70vh;
+  text-shadow: 1px 1px 2px #333333;
+  color: #333333;
+}
+.challenges {
+  text-align: center;
+  border-width: 1px;
+  border-style: soli;
+  border-color: /;
+  width: 100vh;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  transform: translate(0vh, -30vh);
+  display: flex;
+  justify-content: center;
+  width: auto;
+  font-size: 2vh;
+}
+.keychallengeLetter {
+  margin-inline: 85px 85px;
+  display: flex;
+}
+
+.piePagina {
+  border-width: 1px;
+  border-style: ;
+  border-color: ;
+  width: 100%;
+  background-color: #ccc2b3;
+}
+.piePagina .group1 {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 50px;
+  padding: 45px 0px;
+}
